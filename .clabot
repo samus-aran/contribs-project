@@ -1,5 +1,5 @@
 {
-  "contributors": "https://api.github.com/repos/samus-aran/contribs/.contributors",
+  "contributors": "https://api.github.com/repos/samus-aran/contribs/contents/.contributors",
   "message": "Please sign the CLA k'thnx",
   "label": "CLA-Signed",
   "recheckComment": "Rechecking..."
