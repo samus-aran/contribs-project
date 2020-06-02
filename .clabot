@@ -1,6 +1,6 @@
 {
   "contributors": "https://api.github.com/repos/samus-aran/contribs/contents/.contributors",
-  "message": "Please sign the CLA k'thnx {{unidentifiedUsers}}",
+  "message": "Please sign the CLA k'thnx {{context.webhook.pull_request.url}}",
   "label": "CLA-Signed",
   "recheckComment": "Rechecking..."
 }
